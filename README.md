@@ -1,11 +1,16 @@
 # Borcelle Digital Wallet Financial Analysis
 ## Project Overview
 https://github.com/WariebiAde/myprojects.github.io
+
 The Borcelle Digital Wallet Dashboard is a web-based financial interface designed to give users a clear, real-time view of their account balance, card details, and transaction history. The dashboard prioritizes clarity, accessibility, and efficiency, enabling users to quickly understand their financial position and take immediate action without friction.
+
+
+
+Click here to view the dashboard
 
 This project demonstrates how well-structured data presentation and intuitive UI design can improve financial awareness, user trust, and decision-making.
 
-Problem Statement
+# Problem Statement
 
 Many digital banking users struggle with:
 
@@ -17,7 +22,7 @@ Poor visual hierarchy that slows down decision-making
 
 The goal of this project was to design a dashboard that surfaces essential financial data at a glance, while still allowing users to drill down into detailed transaction information when needed.
 
-Solution
+# Solution
 
 The Borcelle dashboard solves these challenges by:
 
@@ -29,7 +34,7 @@ Providing quick-action buttons for common tasks such as top-up, history review, 
 
 The result is a streamlined dashboard that supports both quick checks and deeper financial review.
 
-Key Features
+# Key Features
 
 Account & Balance Overview
 Displays total balance prominently to ensure instant visibility of financial standing.
