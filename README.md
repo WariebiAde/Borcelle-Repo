@@ -102,3 +102,7 @@ Add spending insights and category breakdowns
 Include trend indicators and monthly summaries
 
 Integrate downloadable reports and exportable data views
+
+<img width="960" height="512" alt="Tableau" src="https://github.com/user-attachments/assets/eff67982-181d-4441-a0c3-45b6b3abc97a" />
+
+[Click here to interact with dashboard](https://app.powerbi.com/view?r=eyJrIjoiZDE5ODdjYTgtNmMyYS00ZWYzLWFhMGMtOTI3N2E0Y2YzNzVkIiwidCI6ImI3ZmE1MTQ0LTY0YzUtNDllZS1hMmU1LTBjYmYzNmQ2OTQ3OCIsImMiOjh9)
